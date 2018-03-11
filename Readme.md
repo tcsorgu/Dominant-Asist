@@ -9,6 +9,7 @@ TC Kimlik numarasını, Türkiye Cumhuriyeti Nüfus ve Vatandaşlık İşleri Ge
 
 Dominant Asist Kimlik No Sorgulama Yazılımı Birim Fiyatı Sadece  0.05 BTC dir.
 
+* Fiyat : 0.05 BTC
 * Ödeme Türü : Bitcoin
 * Teslimat Türü : Github Download
 * Rar Şifresi : Satın aldığınız zaman size eposta olarak gönderilir.
