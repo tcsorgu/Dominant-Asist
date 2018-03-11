@@ -7,7 +7,7 @@ TC Kimlik numarasını, Türkiye Cumhuriyeti Nüfus ve Vatandaşlık İşleri Ge
 
 ## Dominant Asist Fiyatı
 
-Dominant Asist Yazılımı Sadece (0.03 BTC) 1000.00 Türk Lirası'dır.
+Dominant Asist Yazılımı Sadece (0.05 BTC) 1800.00 Türk Lirası'dır.
 
 * Ödeme Türü : Bitcoin
 * Teslimat Türü : Github Download
