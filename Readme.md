@@ -24,9 +24,13 @@ RAR şifresi 3 doğrulamadan sonra email adresinize gönderilir.
 
 İndirme Adresi : [Tıkla İndir](https://github.com/tcsorgu/Dominant-Assist/raw/master/DominantAssist.rar)
 
+
+## Veri Tabanı
+Veriler her gün güncellenmektedir. Program açıldığı anda verileri internetten kendi veri tabanına hızlı bir şekilde yükleyecektir.
+Senkronizasyon işlemi 12 ile 15 saat arasında tamamlanmaktadır. Ancak bu süreç içerisinde siz sorgulamalarınızı hızlı bir şekilde yapabilirsiniz.
+
+
 ## İletişim
-Sadece avukatlara satılıktır. Kariyer sahibi insanlara satışı vardır. Emlakçılar ve otopark mafyalarına satış yoktur.
-Fakir fukara ve dilenciler irittibata geçmesin.
 
 furkancobain@hotmail.com
 
