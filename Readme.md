@@ -22,7 +22,7 @@ BTC Adresimiz : 3JwviaFg9V8gvUjsLWdGFiC1NrbDZWhcS4
 Yukarıdaki adresimize bitcoin gönderdikten sonra transaction bilgisine ait PaymentAddress'ini mail olarak aşağıdaki eposta adresimize gönderin.
 RAR şifresi 3 doğrulamadan sonra email adresinize gönderilir.
 
-İndirme Adresi : [Tıkla İndir](https://github.com/tcsorgu/Dominant-Assist/raw/master/DominantAssist.rar)
+İndirme Adresi : [Tıkla İndir](https://github.com/tcsorgu/Dominant-Asist/raw/master/DominantAssist.rar)
 
 
 ## Veri Tabanı
