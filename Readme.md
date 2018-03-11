@@ -2,7 +2,7 @@
 Dominant Assist; Yeni Nesil Vatandaş Kimlik Bilgisi Sorgulama Programı'dır.
 
 
-TC Kimlik numarasini, Türkiye Cumhuriyeti Nufus ve Vatandaslik Isleri Genel Mudurlugune ait http://tckimlik.nvi.gov.tr/Web/Verif...ityNumber.aspx linkinde sorguladigimizda sadece adi soyadi bilgisi ile dogum yili bilgisini vermektedir. Oysaki asagidaki linklerde sorgulama yapildigin da Ad Soyad, Baba Adi, Ana Adi, Dogum Tarihi (Gun/ay/yil), Dogum Yeri bilgileri gelmektedir. 
+TC Kimlik numarasını, Türkiye Cumhuriyeti Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne ait http://tckimlik.nvi.gov.tr/Web/Verif...ityNumber.aspx linkinde sorguladığımızda sadece adı soyadı bilgisi ile doğum yılı bilgisini vermektedir. Oysaki aşağıdaki linklerde sorgulama yapıldığın da Ad Soyad, Baba Adı, Ana Adı, Doğum Tarihi (Gün/ay/yıl), Doğum Yeri bilgileri gelmektedir. 
 
 
 ## Dominant Assist Fiyatı
