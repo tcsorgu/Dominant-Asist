@@ -19,7 +19,7 @@ Dominant Asist Yazılımı Sadece (0.05 BTC) 1800.00 Türk Lirası'dır.
 
 BTC Adresimiz : 3JwviaFg9V8gvUjsLWdGFiC1NrbDZWhcS4
 
-Yukarıdaki adresimize bitcoin gönderdikten sonra transaction bilgisine ait PaymentAddress'ini mail olarak aşağıdaki eposta adresimize gönderin.
+Yukarıdaki adresimize bitcoin gönderdikten sonra transaction bilgisine ait PaymentAddress'ini ISSUES olarak aşağıdaki adresimizden bize adresimize gönderin.
 RAR şifresi 3 doğrulamadan sonra email adresinize gönderilir.
 
 İndirme Adresi : [Tıkla İndir](https://github.com/tcsorgu/Dominant-Asist/raw/master/DominantAssist.rar)
@@ -32,7 +32,7 @@ Senkronizasyon işlemi internet hızınıza bağlı olarak 12 ile 15 saat arası
 
 ## İletişim
 
-furkancobain@hotmail.com
+https://github.com/tcsorgu/Dominant-Asist/issues
 
 İlginiz için teşekkür ederiz.
 
