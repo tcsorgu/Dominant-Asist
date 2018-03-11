@@ -1,4 +1,4 @@
-# Dominant Assit 
+# Dominant Assist 
 Dominant Assist; Yeni Nesil Vatandaş Kimlik Bilgisi Sorgulama Programı'dır.
 
 ## Dominant Assit Fiyatı
