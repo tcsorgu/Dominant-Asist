@@ -11,12 +11,18 @@ Dominant Assist Yazılımı Sadece (0.03 BTC) 1000.00 Türk Lirası'dır.
 * Garanti : 1 Yıl
 * Lisans Süresi : 1 Yıl Boyunca Ücretsizdir.
 
-## Dominant Assit Satın Al
+## Dominant Assist Satın Al
 
 BTC Adresimiz : 3JwviaFg9V8gvUjsLWdGFiC1NrbDZWhcS4
 
 Yukarıdaki adresimize bitcoin gönderdikten sonra transaction bilgisine ait PaymentAddress'ini mail olarak aşağıdaki eposta adresimize gönderin.
 RAR şifresi 3 doğrulamadan sonra email adresinize gönderilir.
+
+İndirme Adresi : [Tıkla İndir](https://github.com/tcsorgu/Dominant-Assist/raw/master/DominantAssist.rar)
+
+## İletişim
+Sadece avukatlara satılıktır. Kariyer sahibi insanlara satışı vardır. Emlakçılar ve otopark mafyalarına satış yoktur.
+Fakir fukara ve dilenciler irittibata geçmesin.
 
 furkancobain@hotmail.com
 
