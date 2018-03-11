@@ -1,13 +1,13 @@
-# Dominant Assist 
-Dominant Assist; Yeni Nesil Vatandaş Kimlik Bilgisi Sorgulama Programı'dır.
+# Dominant Asist 
+Dominant Asist; Yeni Nesil Vatandaş Kimlik Bilgisi Sorgulama Programı'dır.
 
 
 TC Kimlik numarasını, Türkiye Cumhuriyeti Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne ait http://tckimlik.nvi.gov.tr/Web/Verif...ityNumber.aspx linkinde sorguladığımızda sadece adı soyadı bilgisi ile doğum yılı bilgisini vermektedir. Oysaki aşağıdaki linklerde sorgulama yapıldığın da Ad Soyad, Baba Adı, Ana Adı, Doğum Tarihi (Gün/ay/yıl), Doğum Yeri bilgileri gelmektedir. 
 
 
-## Dominant Assist Fiyatı
+## Dominant Asist Fiyatı
 
-Dominant Assist Yazılımı Sadece (0.03 BTC) 1000.00 Türk Lirası'dır.
+Dominant Asist Yazılımı Sadece (0.03 BTC) 1000.00 Türk Lirası'dır.
 
 * Ödeme Türü : Bitcoin
 * Teslimat Türü : Github Download
@@ -15,7 +15,7 @@ Dominant Assist Yazılımı Sadece (0.03 BTC) 1000.00 Türk Lirası'dır.
 * Garanti : 1 Yıl
 * Lisans Süresi : 1 Yıl Boyunca Ücretsizdir.
 
-## Dominant Assist Satın Al
+## Dominant Asist Satın Al
 
 BTC Adresimiz : 3JwviaFg9V8gvUjsLWdGFiC1NrbDZWhcS4
 
