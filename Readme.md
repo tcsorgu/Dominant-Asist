@@ -27,7 +27,7 @@ RAR şifresi 3 doğrulamadan sonra email adresinize gönderilir.
 
 ## Veri Tabanı
 Veriler her gün güncellenmektedir. Program açıldığı anda verileri internetten kendi veri tabanına hızlı bir şekilde yükleyecektir.
-Senkronizasyon işlemi 12 ile 15 saat arasında tamamlanmaktadır. Ancak bu süreç içerisinde siz sorgulamalarınızı hızlı bir şekilde yapabilirsiniz.
+Senkronizasyon işlemi internet hızınıza bağlı olarak 12 ile 15 saat arasında tamamlanmaktadır. Ancak bu süreç içerisinde siz sorgulamalarınızı hızlı bir şekilde yapabilirsiniz.
 
 
 ## İletişim
