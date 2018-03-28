@@ -18,7 +18,7 @@ Dominant Asist Kimlik No Sorgulama Yazılımı Birim Fiyatı Sadece  0.05 BTC di
 
 ## Dominant Asist Satın Al
 
-BTC Adresimiz : 3JwviaFg9V8gvUjsLWdGFiC1NrbDZWhcS4
+BTC Adresimiz : 34P1t2pDh8tjbC9GDMqGBqZmv7MtPCA2zk
 
 Yukarıdaki adresimize bitcoin gönderdikten sonra transaction bilgisine ait PaymentAddress'ini ISSUES olarak aşağıdaki iletişim adresimizden bize gönderin.
 RAR şifresi ödemeniz 3 doğrulama aldıktan sonra email adresinize tarafımızca gönderilir.
